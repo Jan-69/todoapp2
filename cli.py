@@ -1,7 +1,7 @@
 
 
 #from functions import get_todos, write_todos
-from modules import functions
+import functions
 import time
 
 
